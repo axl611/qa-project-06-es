@@ -5,10 +5,13 @@
 Este proyecto implica la elaboración de un kit para un usuario mediante el uso de solicitudes API. A continuación, se describen los pasos para llevar a cabo las pruebas de manera efectiva.
 
 # Instrucciones para la ejecución de pruebas
-- Repositorio clonado
+- Python 3 instalado en tu sistema
+- El repositorio necesita estar clonado localmente
 - Necesitas tener instalados los paquetes Pytest y Request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 
+# Fuente de documentación utilizada
+- https://fa1906b5-952e-49dd-a12f-b673f9e45cd5.serverhub.tripleten-services.com/docs/
 
 # Archivos y Estructura del Proyecto
 
